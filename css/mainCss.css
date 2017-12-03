@@ -1,8 +1,9 @@
-main header{
+main header img{
 	 border:solid 5px white;
 	 overflow: hidden;
 	 align-items: center;
 	 height:400px;
+	 width:99%;
  }
 .articles {
 	display: -webkit-inline-flex;
