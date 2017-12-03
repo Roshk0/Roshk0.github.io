@@ -1,0 +1,42 @@
+ .nav div{
+	 width: 70%;
+	 height: 45px;
+   display: -webkit-inline-flex;
+   display: inline-flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.logo{
+	text-align:center;
+}
+body{
+	margin:0 auto;
+    background:#B5B5B5;	
+}
+.wrapper{
+	width:80%;
+	margin: 0 auto;
+}
+.nav{
+	background:white ;
+	display:flex;   
+}
+.nav a{
+	color:gray;
+	text-decoration: none;
+}
+.nav form{
+	vertical-align: bottom; 
+	padding: 0;
+	display:flex;
+	align-items: center;
+}
+h1{
+	margin:0 auto;
+	color:#B5B5B5;
+}
+#fon{
+	margin:0 0;
+    height: 150px;
+    background: radial-gradient(at top, #FEFFFF, #B5B5B5);
+}

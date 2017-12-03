@@ -1,0 +1,29 @@
+footer nav{
+		 width: 99%;
+	 height: 45px;
+   display: -webkit-inline-flex;
+   display: inline-flex;
+   justify-content: space-around;
+   justify-content: flex-end;
+   align-items: center;
+   background:white;
+   border:solid 5px white;
+}
+ footer nav div{
+	 display: inline-flex;
+	 width: 50%;
+	 height:35px;
+	 align-items: center;
+ }
+ footer nav div div a{
+	color:gray;
+	text-decoration: none;
+ }
+ footer nav div div{
+	 color:gray;
+ }
+ footer nav div nav{
+	 width:200px;
+	 display: inline-flex;
+	 align-items: center;
+ }

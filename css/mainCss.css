@@ -1,0 +1,44 @@
+main header{
+	 border:solid 5px white;
+	 overflow: hidden;
+	 align-items: center;
+	 height:400px;
+ }
+.articles {
+	display: -webkit-inline-flex;
+    display: inline-flex;
+	justify-content: space-between;
+	height:400px;
+	width:100%;
+	
+}
+.item{
+	height:390px;
+	border:solid 5px white;
+	width:23%;
+	background:white;
+	
+}
+.item div img{
+	border:solid 1px white;
+	overflow: hidden;
+	align-items: center;
+	height:185px;
+	
+}
+.footer-text a{
+	text-decoration:none;
+}
+.footer-text{
+	text-align:right;
+}
+main footer{
+	border:solid 5px white;
+	background:white;
+}
+main footer{
+	display: inline-flex;
+}
+.item-main-text{
+	overflow: hidden;
+}
